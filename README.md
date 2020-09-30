@@ -1,6 +1,6 @@
 # Francis Adedayo Atoyebi
 
-# Research-Assistant-Crypto
+# Research Assistant Crypto
 
 ## Finance
 **Q**: Write a 500-word explanation of Bitcoin stock-to-flow model and make an argument for why it is a bad model?
