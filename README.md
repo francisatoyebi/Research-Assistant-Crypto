@@ -45,7 +45,7 @@ The Black Scholes call price is: **1.88**
 
 **Q**: Write a function that takes in a Proth Number and uses Proth's theorem to determine if said number is prime? You can write this in any programming language but C/C++/Golang are preferred
 
-**A**: I am using the Python programming language to answer this question
+**A**: I am using the **Python programming language** to answer this question
 
 ```python hl_lines="1 3"
 def main(n):
