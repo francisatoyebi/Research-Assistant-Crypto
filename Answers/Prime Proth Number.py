@@ -1,5 +1,5 @@
 def main(n):
-    '''This is a function to check if an entry is a prime nber or not based on Proth's principle
+    '''This is a function to check if an entry is a prime number or not based on Proth's principle
     
     This function takes in one argument, n. 
     'n': must be an integer.
