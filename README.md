@@ -25,6 +25,7 @@ Despite wide popularity, the S2F model’s flaws have been pointed out by analys
 
 Conclusively, the S2F model’s imperfections are magnified from the lens of a more long-term analysis, which makes the model both unsustainable and bad for accurate bitcoin predictions, even short-term.
 
+----------------------------------
 
 **Q**: (Please show your workings). Yara Inc is listed on the NYSE with a stock price of $40 - the company is not known to pay dividends. We need to price a call option with a strike of $45 maturing in 4 months. The continuously-compounded risk-free rate is 3%/year, the mean return on the stock is 7%/year, and the standard deviation of the stock return is 40%/year. What is the Black-Scholes call price?
 
@@ -33,10 +34,14 @@ The Black Scholes call price is: **1.88**
 ![Image of workings](https://raw.githubusercontent.com/francisatoyebi/Research-Assistant-Crypto/master/Answers/Black_Scholes1.jpeg)
 ![Image of workings](https://raw.githubusercontent.com/francisatoyebi/Research-Assistant-Crypto/master/Answers/Black_Scholes2.jpeg)
 
+----------------------------------
+
 ## Computer Science
 **Q**: Why is it a bad idea to use recursion method to find the fibonacci of a number?
 
 **A**: Using recursion method to find the fibonacci of a number is a bad idea because it takes more time to run.
+
+-----------------------------------
 
 **Q**: Write a function that takes in a Proth Number and uses Proth's theorem to determine if said number is prime? You can write this in any programming language but C/C++/Golang are preferred
 
@@ -91,7 +96,7 @@ def main(n):
         print("Not a proth number in the first place.")
     
 ```
-
+-------------------------------------------
 
 ## Maths
 **Q**: (Please show your workings). Over all real numbers, find the minimum value of a positive real number, y such that
