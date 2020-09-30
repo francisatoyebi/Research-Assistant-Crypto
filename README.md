@@ -30,7 +30,8 @@ Conclusively, the S2F model’s imperfections are magnified from the lens of a m
 
 **A**:
 The Black Scholes call price is: **1.88**
-![Image of workings]()
+![Image of workings](https://raw.githubusercontent.com/francisatoyebi/Research-Assistant-Crypto/master/Answers/Black_Scholes1.jpeg)
+![Image of workings](https://raw.githubusercontent.com/francisatoyebi/Research-Assistant-Crypto/master/Answers/Black_Scholes2.jpeg)
 
 ## Computer Science
 **Q**: Why is it a bad idea to use recursion method to find the fibonacci of a number?
