@@ -28,6 +28,9 @@ Conclusively, the S2F model’s imperfections are magnified from the lens of a m
 
 **Q**: (Please show your workings). Yara Inc is listed on the NYSE with a stock price of $40 - the company is not known to pay dividends. We need to price a call option with a strike of $45 maturing in 4 months. The continuously-compounded risk-free rate is 3%/year, the mean return on the stock is 7%/year, and the standard deviation of the stock return is 40%/year. What is the Black-Scholes call price?
 
+**A**:
+![]()
+
 ## Computer Science
 **Q**: Why is it a bad idea to use recursion method to find the fibonacci of a number?
 
@@ -35,7 +38,7 @@ Conclusively, the S2F model’s imperfections are magnified from the lens of a m
 
 **Q**: Write a function that takes in a Proth Number and uses Proth's theorem to determine if said number is prime? You can write this in any programming language but C/C++/Golang are preferred
 
-**Q**: I am using the Python programming language to answer this question
+**A**: I am using the Python programming language to answer this question
 
 ```python hl_lines="1 3"
 def main(n):
@@ -90,6 +93,6 @@ def main(n):
 
 ## Maths
 **Q**: (Please show your workings). Over all real numbers, find the minimum value of a positive real number, y such that
-$y = sqrt((x+6)^2 + 25) + sqrt((x-6)^2 + 121)$
+y = sqrt((x+6)^2 + 25) + sqrt((x-6)^2 + 121)
 
-
+![]()
