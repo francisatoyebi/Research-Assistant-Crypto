@@ -98,4 +98,4 @@ y = sqrt((x+6)^2 + 25) + sqrt((x-6)^2 + 121)
 
 **A**: The value of x to give the minimum real number value of y is **-6**
 
-![Image of workings]()
+![Image of workings](https://raw.githubusercontent.com/francisatoyebi/Research-Assistant-Crypto/master/Answers/Quadratic.jpeg)
