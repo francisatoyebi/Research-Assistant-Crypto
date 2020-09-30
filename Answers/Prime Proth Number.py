@@ -1,5 +1,5 @@
 def main(n):
-    '''This is a function to check if an entry is a prime number or not based on Proth's principle
+    '''This is a function to check if an entry is a prime nber or not based on Proth's principle
     
     This function takes in one argument, n. 
     'n': must be an integer.
@@ -36,8 +36,8 @@ def main(n):
 
     if(prothchecker(n)): 
         if n > 1:
-            print('it is a proth number, checking if it is prime')
-            print('=============================================')
+            print(f'{n} is a proth number, checking if it is prime')
+            print('==================================================')
             if is_prime_number(n):
                 print(f'\n{n} is a proth and a prime number.')
                 
@@ -45,4 +45,3 @@ def main(n):
                 print(f'{n} is a proth but not a prime number.')
     else: 
         print("Not a proth number in the first place.")
-    
