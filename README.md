@@ -87,14 +87,14 @@ def main(n):
     if(prothchecker(n)): 
         if n > 1:
             print('it is a proth number, checking if it is prime')
+            print('=============================================')
             if is_prime_number(n):
                 print(f'\n{n} is a proth and a prime number.')
                 
             else:
                 print(f'{n} is a proth but not a prime number.')
     else: 
-        print("Not a proth number in the first place.")
-    
+        print("Not a proth number in the first place.")    
 ```
 -------------------------------------------
 
